@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\BookStatus\AVAILABLE.png" />
+    <None Remove="Images\BookStatus\BORROWED.png" />
+    <None Remove="Images\BookStatus\LOST.png" />
+    <None Remove="Images\BookStatus\RESERVED.png" />
+    <None Remove="Images\Buttons\Authors.png" />
+    <None Remove="Images\Buttons\Books.png" />
+    <None Remove="Images\Buttons\Readers.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Library\Library.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\BookStatus\AVAILABLE.png" />
+    <Resource Include="Images\BookStatus\BORROWED.png" />
+    <Resource Include="Images\BookStatus\LOST.png" />
+    <Resource Include="Images\BookStatus\RESERVED.png" />
+    <Resource Include="Images\Buttons\Authors.png" />
+    <Resource Include="Images\Buttons\Books.png" />
+    <Resource Include="Images\Buttons\Readers.png" />
+  </ItemGroup>
+
+</Project>

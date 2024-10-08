@@ -1,0 +1,5 @@
+E:\ДЗ\КПЗ\lab2\PortableLibrary\obj\Debug\net6.0\PortableLibrary.csproj.AssemblyReference.cache
+E:\ДЗ\КПЗ\lab2\PortableLibrary\obj\Debug\net6.0\PortableLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\ДЗ\КПЗ\lab2\PortableLibrary\obj\Debug\net6.0\PortableLibrary.AssemblyInfoInputs.cache
+E:\ДЗ\КПЗ\lab2\PortableLibrary\obj\Debug\net6.0\PortableLibrary.AssemblyInfo.cs
+E:\ДЗ\КПЗ\lab2\PortableLibrary\obj\Debug\net6.0\PortableLibrary.csproj.CoreCompileInputs.cache

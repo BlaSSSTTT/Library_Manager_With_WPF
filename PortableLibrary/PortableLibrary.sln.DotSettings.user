@@ -1,0 +1,32 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=507af3ba_002Dbd66_002D43ff_002D9598_002Ddc8f0fccd659/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethodSerialize" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EC5776F1-F299-4744-A323-20594EC2D129::net6.0::PortableLibraryTest.UnitTestSerializer.TestMethodSerialize&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=adb936ea_002Da06f_002D4771_002Dafae_002Dd91e24e112d0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethodSerialize #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EC5776F1-F299-4744-A323-20594EC2D129::net6.0::PortableLibraryTest.UnitTestSerializer.TestMethodSerialize&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb736d63_002D792f_002D442f_002D96fc_002Dd58d026eece4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethodSerialize #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EC5776F1-F299-4744-A323-20594EC2D129::net6.0::PortableLibraryTest.UnitTestSerializer.TestMethodSerialize&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c92b9aa5_002D2153_002D42e8_002D96aa_002D50609c050845/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethodSerialize #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EC5776F1-F299-4744-A323-20594EC2D129::net6.0::PortableLibraryTest.UnitTestSerializer.TestMethodSerialize&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cffe3608_002Dfea4_002D4115_002D9b19_002D9a675356918d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestMethodSerialize #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::DF4C7DAF-BF05-46EA-9350-51469B3F7272::.NETFramework,Version=v4.7.2::TestLibrary.UnitTestSerializer.TestMethodSerialize&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::DF4C7DAF-BF05-46EA-9350-51469B3F7272::.NETFramework,Version=v4.7.2::TestLibrary.UnitTestSerializer.TestMethodDeserialize&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e57146b8_002D30d4_002D4e87_002D89b4_002Dff817fa50503/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethodSerialize #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EC5776F1-F299-4744-A323-20594EC2D129::net6.0::PortableLibraryTest.UnitTestSerializer.TestMethodSerialize&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

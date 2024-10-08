@@ -1,0 +1,17 @@
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\TestLibrary.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\TestLibrary.pdb
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Library.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Library.pdb
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ДЗ\КПЗ\lab2\TestLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ДЗ\КПЗ\lab2\TestLibrary\obj\Debug\TestLibrary.csproj.AssemblyReference.cache
+E:\ДЗ\КПЗ\lab2\TestLibrary\obj\Debug\TestLibrary.csproj.CoreCompileInputs.cache
+E:\ДЗ\КПЗ\lab2\TestLibrary\obj\Debug\TestLibrary.csproj.CopyComplete
+E:\ДЗ\КПЗ\lab2\TestLibrary\obj\Debug\TestLibrary.dll
+E:\ДЗ\КПЗ\lab2\TestLibrary\obj\Debug\TestLibrary.pdb
